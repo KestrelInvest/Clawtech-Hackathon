@@ -28,7 +28,7 @@ On **September 1, 2026**, Kestrel entered [The AnsemHack Clawrena](https://clawp
 | Milestone | Status |
 |---|---|
 | Registered in the official Clawrena registry | **Done — Sep 1** |
-| Entry post on X | In progress |
+| Entry post on X | **Done — Sep 1** · [the post](https://x.com/KestrelInvest/status/2094797253328224691) |
 | Token migrated to ClawPump | In progress |
 | VANE on the Hermes harness | Building |
 | UsePod inference integration | Scoping |
